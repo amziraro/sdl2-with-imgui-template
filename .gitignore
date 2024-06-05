@@ -1,0 +1,10 @@
+# Compiled project 
+tri
+
+# Dear ImGui
+imgui.ini
+
+# General build artifacts
+src/*.o
+3rdParty/imgui/*.o
+3rdParty/imgui/backends/*.o
